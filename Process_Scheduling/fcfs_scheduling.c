@@ -22,6 +22,7 @@ void calculateData();
 
 //main function
 void main(){
+    printf("FCFS Scheduling \n\n");
 
     //reading process details
     printf("Enter no:of processes: ");
